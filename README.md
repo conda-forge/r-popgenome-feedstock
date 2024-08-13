@@ -9,7 +9,7 @@ About r-popgenome
 
 Home: https://CRAN.R-project.org/package=PopGenome
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Summary: Provides efficient tools for population genomics data analysis, able to process individual loci, large sets of loci, or whole genomes. PopGenome <DOI:10.1093/molbev/msu136> not only implements a wide range of population genetics statistics, but also facilitates the easy implementation of new algorithms by other researchers. PopGenome is optimized for speed via the seamless integration of C code.
 
@@ -18,7 +18,7 @@ About r-popgenome
 
 Home: https://CRAN.R-project.org/package=PopGenome
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Summary: Provides efficient tools for population genomics data analysis, able to process individual loci, large sets of loci, or whole genomes. PopGenome <DOI:10.1093/molbev/msu136> not only implements a wide range of population genetics statistics, but also facilitates the easy implementation of new algorithms by other researchers. PopGenome is optimized for speed via the seamless integration of C code.
 
@@ -210,5 +210,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
